@@ -1,0 +1,29 @@
+3. Trolibusz 40 pont
+ A következő feladatban egy weboldalt kell készitenie a trolibuszok rövid bemutatására a
+feladatleirás és a minta szerint, valamint a budapesti trolibuszhálózat és metróhálózat
+adatbázisával kell dolgoznia. (A kėt feladatrėsz egymástól függetlenül, tetszőleges sorrendben
+megoldható.)
+Az első feladatrészben a forrásként kiadott weboldalon kell módosításokat végeznie a leirás
+és a minta alapján! Nyissa meg a troli.html állományt és szerkessze annak tartalmát
+az alábbiak szerint:
+1. A weboldal karakterkódolása utf-8, nyelve magyar, a böngészö címsorában megjelenő cim
+  „Trolibuszok" legyen!
+2. A weboldal fejrészében helyezzen el hivatkozást a troli.css stiluslapra, valamint
+  a troli.je állományra a meglévő azonos tipusú hivatkozások után!
+3. A weboldal navigációs sávjában az utolsó pont („Felsővezetés") után helyezzen el egy új
+  hivatkozást a „Budapesti viszonylatok" blokkhoz is a többi hivatkozáshoz hasonlóan!
+4. A weboldalon keresse meg a KRESZ kifejezést, majd alakítsa a kifejezést hivatkozássá!
+   Kattintásra a hivatkozott weboldal új ablakban/böngészőfülön nyiljon meg. A céloldal URL
+  címe http://net.jogtar.hu/kresz legyen!
+5. A weboldalon készítsen egy újabb tartalmi blokkot az alábbi leirás és a minta alapján:
+    a. Az új tartalmi blokk a Bootstrap rács második sorában, a „Felépités" blokkja után
+       helyezkedjen el! A sor blokkjainak (oszlopainak) szélességét 8:4 arányban ossza el!
+       Az új blokkot formázza a magyarazat azonosítókijelölővel!
+    b. A blokkba helyezze át a „Felépités" blokkból a felsorolást! Alakitsa át a felsorolást
+       számozott felsorolássá!
+6. A „Budapesti viszonylatok" Bootstrap rácsban található űrlapon végezze el a következö
+  módosításokat:
+    a. Az ürlap HTML elemet formázza a jaratviszonylatok azonosítókijelölövel!
+    b. A lenyiló választólista elemhez rendelje a jaratszam azonositót!
+    c. A lenyiló választólistához rendelt függvényhívás eseményét kattintásról módosítsa
+       a kiválasztott elem megváltozására!
