@@ -24,6 +24,6 @@ az alábbiak szerint:
 6. A „Budapesti viszonylatok" Bootstrap rácsban található űrlapon végezze el a következö
   módosításokat:
     a. Az ürlap HTML elemet formázza a jaratviszonylatok azonosítókijelölövel!
-    b. A lenyiló választólista elemhez rendelje a jaratszam azonositót!
+    b. A lenyiló választólista elemhez rendelje a jaratSzam azonositót!
     c. A lenyiló választólistához rendelt függvényhívás eseményét kattintásról módosítsa
        a kiválasztott elem megváltozására!
